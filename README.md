@@ -63,4 +63,4 @@ Install these libraries in your Arduino IDE before uploading the code.
 This project is open-source and licensed under the MIT License. Feel free to modify and distribute the code.
 
 ## Acknowledgements
-Special thanks to the developers of the libraries used in this project. Their contributions made this project possible.
+Special thanks to the developers of the libraries used in this project and Waveshare for sponsoring the boards! Their contributions made this project possible.
