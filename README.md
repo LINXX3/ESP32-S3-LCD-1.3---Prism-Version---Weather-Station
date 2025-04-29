@@ -64,3 +64,6 @@ This project is open-source and licensed under the MIT License. Feel free to mod
 
 ## Acknowledgements
 Special thanks to the developers of the libraries used in this project and Waveshare for sponsoring the boards! Their contributions made this project possible.
+
+Product Link: https://www.waveshare.com/esp32-s3-lcd-1.3.htm?&aff_id=Waveshare
+Wiki Link：http://www.waveshare.com/wiki/ESP32-S3-LCD-1.3
